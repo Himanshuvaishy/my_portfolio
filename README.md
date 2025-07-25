@@ -17,7 +17,7 @@ Welcome to my personal portfolio website! I'm Himanshu Vaishy — a passionate d
 
 ## 📷 Preview
 
-![Portfolio Screenshot](./assets/screenshot.png) <!-- Replace this with actual screenshot path -->
+![Portfolio Screenshot](https://res.cloudinary.com/df0ncrgsp/image/upload/v1753470795/Screenshot_2025-07-26_004253_mxhyt2.jpg) <!-- Replace this with actual screenshot path -->
 
 ---
 
